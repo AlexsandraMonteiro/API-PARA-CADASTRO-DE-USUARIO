@@ -1,11 +1,11 @@
-📋 #API de Gerenciamento de Pessoas
+# **📋 API de Gerenciamento de Pessoas
 
 Esta API foi desenvolvida para gerenciar um banco de dados MongoDB, permitindo cadastrar e remover pessoas de uma lista de forma simples e eficiente.
 O projeto conta com uma interface em HTML, CSS e JavaScript, facilitando a interação do usuário com o sistema.
 #
 💡 O desenvolvimento foi realizado como parte de uma videoaula prática, servindo tanto como exemplo funcional quanto como material de aprendizado para iniciantes em integração de backend e frontend.
 #
-🚀 #Tecnologias utilizadas
+## **🚀 Tecnologias utilizadas
 
 * Node.js (backend)
 
@@ -15,7 +15,7 @@ O projeto conta com uma interface em HTML, CSS e JavaScript, facilitando a inter
 
 * HTML, CSS e JavaScript (frontend)
 #
-⚙️ #Funcionalidades
+## **⚙️ Funcionalidades
 
 📌 Cadastrar novas pessoas no banco de dados
 
